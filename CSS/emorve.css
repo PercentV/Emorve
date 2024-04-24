@@ -635,7 +635,7 @@ button {
 
 .d-card_image {
     display: block;
-    margin: auto;
+    margin: 30px auto 0;
 }
 
 .d-card_content {
