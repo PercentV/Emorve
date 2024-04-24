@@ -325,6 +325,7 @@ button {
     margin: auto;
     max-width: 480px;
     font-size: 1rem;
+    line-height: 2;
 }
 
 .main-btn {
@@ -611,6 +612,7 @@ button {
 
 .dif-parag {
     font-size: 1.2rem;
+    line-height: 1.5;
 }
 
 .dif-cards {
@@ -656,6 +658,7 @@ button {
 
 .d-card_parag {
     font-size: 1.1rem;
+    line-height: 1.8;
 }
 
 @media screen and (max-width: 1340px) {
@@ -757,6 +760,7 @@ button {
 .e-parag {
     font-size: 1.2rem;
     margin: 20px 0;
+    line-height: 1.5;
 }
 
 .e-btn {
